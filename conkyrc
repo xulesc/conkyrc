@@ -60,7 +60,7 @@ color7 FFFFFF
 color8 FFFFFF
 
 TEXT
-${execi 300 curl -s "http://weather.yahooapis.com/forecastrss?w=493776&u=c" -o ~/.cache/weather.xml}
+${execi 300 curl -s "http://weather.yahooapis.com/forecastrss?p=GRXX0004&u=c" -o ~/.cache/weather.xml}
 \
 # Weather
 \
