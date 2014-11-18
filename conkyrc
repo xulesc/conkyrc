@@ -10,7 +10,7 @@ gap_x 0
 gap_y 0
 minimum_size 268 1220
 maximum_width 268
-alignment top_right
+alignment bottom_left
 own_window yes
 own_window_type normal
 own_window_transparent yes
@@ -40,7 +40,7 @@ show_graph_range no
 use_xft yes
 xftalpha 0
 xftfont Droid Sans:size=8
-text_buffer_size 256
+text_buffer_size 556
 override_utf8_locale yes
 
 # Useful shortenings #
